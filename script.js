@@ -283,8 +283,6 @@ function setupContactFormValidation() {
 
   if (!form) return;
 
-  // form.addEventListener("submit", (e) => {
-  //   e.preventDefault();
     const name = document.getElementById("userName").value.trim();
     const email = document.getElementById("userEmail").value.trim();
     const phone = document.getElementById("userPhone").value.trim();
