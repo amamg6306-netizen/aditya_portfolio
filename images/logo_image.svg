@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305.54 143.24">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 74.97px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-1, .cls-3 {
+        font-family: QurovaDEMO-SemiBold, 'Qurova DEMO';
+        font-weight: 600;
+      }
+
+      .cls-4 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-5 {
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-size: 37.11px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect width="305.54" height="143.24"/>
+    <g>
+      <path class="cls-2" d="m54.05,15.91h-22.6c-2.14,0-3.25,1.12-3.25,3.25v58.58c0,2.14,1.12,3.25,3.25,3.25h22.6c21.29,0,30.96-14.41,30.96-32.54s-9.67-32.54-30.96-32.54Zm15.65,34.22c-2.11,19.09-13.35,19.75-13.35,19.75,0,0-7.17-10.78-15.05-2.73,0,0-12.19-14,5.15-24.51,0,0,12.71-9.65,3.43-20.16,0,0,21.27,14.51,19.82,27.65Zm-27.15,13.52s-4.29-9.31,4.2-16.24,10.8-9.73,10.38-13.6c0,0,2.31,8.49-1.48,12.86-3.79,4.37-13.02,2.47-13.1,16.98Z"/>
+      <text class="cls-3" transform="translate(122.11 122.8)"><tspan x="0" y="0" xml:space="preserve"> with adi</tspan></text>
+      <text class="cls-1" transform="translate(87.67 76.78)"><tspan class="cls-5" x="0" y="0">e</tspan><tspan x="43.48" y="0">si</tspan><tspan class="cls-4" x="97.83" y="0">g</tspan><tspan x="140.34" y="0">n</tspan></text>
+    </g>
+  </g>
+</svg>
