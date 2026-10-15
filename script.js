@@ -12,7 +12,7 @@ const CONFIG = {
   instagramUrl: "https://instagram.com/design.with_adi",
   linkedinUrl: "https://linkedin.com/in/YOUR_USERNAME",
   behanceUrl: "https://behance.net/adityakumar723",
-  developerCreditName: "Aditya Kumar"
+  developerCreditName: "Aman Gupta"
 };
 
 document.addEventListener("DOMContentLoaded", () => {
